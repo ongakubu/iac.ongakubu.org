@@ -1,1 +1,18 @@
+.lyrics {
+  font-weight: 400;
+  line-height: 1.45;
+  padding: 1em;
+  -webkit-columns: 2 200px;
+    -moz-columns: 2 200px;
+    columns: 2 200px;
+  -webkit-column-gap: 4em;
+    -moz-column-gap: 4em;
+    column-gap: 4em;
+  -webkit-column-rule: 1px dotted #ddd;
+    -moz-column-rule: 1px dotted #ddd;
+    column-rule: 1px dotted #ddd;
+}
 
+p {
+  margin-bottom: 1.3em;
+}
