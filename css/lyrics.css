@@ -7,9 +7,11 @@ body {
 
 h2 {
   text-align: center;
+  color #484889;
 }
 
 .lyrics {
+  color #484889;
   font-weight: 400;
   line-height: 1.45;
   padding: 1em;
