@@ -2,16 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;700&display=swap');
 body {
   font-family: 'Noto Serif JP', serif;
-  color #484889;
+  color: #484889;
 }
 
 h2 {
   text-align: center;
-  color #484889;
 }
 
 .lyrics {
-  color #484889;
   font-weight: 400;
   line-height: 1.45;
   padding: 1em;
