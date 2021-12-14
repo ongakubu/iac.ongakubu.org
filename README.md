@@ -1,7 +1,7 @@
 [iac.ongakubu.org](https://iac.ongakubu.org)
 ===
-The Information Administration Committee (IAC) has been established on 4th December 2020.
+The Information Administration Committee (IAC) was established on December 4 2020.
 
-Looking ahead to the next century of [Gakushuin Music Society](https://www.ongakubu.org), we at the IAC contribute to reforming the organising process and culture in a user-driven manner through digital transformation.
+We, the IAC, will contribute to the reform of organisational processes and culture through user-driven system development and digital transformation for the next 100 years of the [Gakushuin Music Society](https://www.ongakubu.org).
 
-For general/concert information, visit the official website of [Gakushuin Music Society (www.ongakubu.org)](https://www.ongakubu.org).
+For general/concert information, please visit [the official website of Gakushuin Music Society (www.ongakubu.org)](https://www.ongakubu.org).
