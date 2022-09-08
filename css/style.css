@@ -149,6 +149,10 @@ input[type=checkbox] {
     height: 15px;
 }
 
+.bodytext {
+    line-height: 1.5em;
+}
+
 audio {
     width: 100%;
 }
