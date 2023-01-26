@@ -54,7 +54,12 @@ a:hover {
     color: var(--navtextcolor);
 }
 
-.global-navlinks a:link, a:visited {
+.global-navlinks a:link {
+    color: var(--navtextcolor);
+    text-decoration: none;
+}
+
+.global-navlinks a:visited {
     color: var(--navtextcolor);
     text-decoration: none;
 }
